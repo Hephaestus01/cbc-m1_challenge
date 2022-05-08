@@ -1,6 +1,6 @@
-# Code Refactor Starter Code
+# Module 1 Challenge - Code Refactoring
 
-URL: https://hephaestus01.github.io/cbc-m1_challenge/ <br/>
+Website URL: https://hephaestus01.github.io/cbc-m1_challenge/ <br/>
 Github Repo: https://github.com/Hephaestus01/cbc-m1_challenge
 
 Summary of Updates/Changes:
