@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-URL: https://hephaestus01.github.io/cbc-m1_challenge/
+URL: https://hephaestus01.github.io/cbc-m1_challenge/ <br/>
 Github Repo: https://github.com/Hephaestus01/cbc-m1_challenge
 
 Summary of Updates/Changes:
@@ -20,3 +20,5 @@ Additional code optimizations:
         - Content section h2 headers
         - Class elements that were previously pointing to a single element
             - Updated to call out the parent class with element type
+
+![ScreenShot](/assets/images/screenshots/latest.png)
